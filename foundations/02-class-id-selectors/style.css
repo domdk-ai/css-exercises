@@ -1,0 +1,15 @@
+.redthin {
+    background-color: lightcoral;
+}
+.bigfont {
+    font-size: 25px;
+}
+#bluebig {
+    font-size: 35px;
+    color: blue;
+}
+#greenbg {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
